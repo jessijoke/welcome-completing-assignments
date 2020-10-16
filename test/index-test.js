@@ -8,3 +8,5 @@ describe( 'This assignment', () => {
     chai.assert.isDirectory( './.git', 'no ".git" folder was found within "welcome-completing-assignment". Use "git init" to create one' );
   } )
 } )
+
+//This is a test of the Jessica needs this to work system
